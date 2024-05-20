@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\dentalclinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:dentalclinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\controllers\\cliniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:controllers\\cliniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\repository\\clinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:repository\\clinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\data\\dentalcliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:data\\dentalcliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\interfaces\\iclinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:interfaces\\iclinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:dentalclinic.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|c:\\users\\admin\\desktop\\self-learning\\.net\\dentalclinic\\dentalclinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C1A9EDFC-6775-43E1-A237-E42ACE0EABCE}|DentalClinic.csproj|solutionrelative:dentalclinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,141 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:48:34.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:32:26.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DentalClinicContext.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Data\\DentalClinicContext.cs",
-              "RelativeDocumentMoniker": "Data\\DentalClinicContext.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Data\\DentalClinicContext.cs",
-              "RelativeToolTip": "Data\\DentalClinicContext.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAASwCcAAAAAAAAA",
+              "Title": "ClinicController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Controllers\\ClinicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClinicController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Controllers\\ClinicController.cs",
+              "RelativeToolTip": "Controllers\\ClinicController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:20:12.768Z",
+              "WhenOpened": "2024-05-19T15:41:06.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Data\\DataContext.cs",
-              "RelativeToolTip": "Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "ClinicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Repository\\ClinicRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ClinicRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Repository\\ClinicRepository.cs",
+              "RelativeToolTip": "Repository\\ClinicRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:44:40.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-19T13:39:34.968Z",
+              "WhenOpened": "2024-05-19T15:40:49.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:24:00.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:30:10.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:26:02.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DentalClinic.http",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\DentalClinic.http",
-              "RelativeDocumentMoniker": "DentalClinic.http",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\DentalClinic.http",
-              "RelativeToolTip": "DentalClinic.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-05-19T14:19:30.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Seed.cs",
-              "RelativeDocumentMoniker": "Seed.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Seed.cs",
-              "RelativeToolTip": "Seed.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:52:23.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -205,8 +113,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DentalClinic",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T13:39:34.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:24:00.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DentalClinic.csproj",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\DentalClinic.csproj",
               "RelativeDocumentMoniker": "DentalClinic.csproj",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\DentalClinic.csproj",
@@ -215,6 +149,119 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-19T13:43:30.935Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:48:34.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DentalClinicContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Data\\DentalClinicContext.cs",
+              "RelativeDocumentMoniker": "Data\\DentalClinicContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Data\\DentalClinicContext.cs",
+              "RelativeToolTip": "Data\\DentalClinicContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA+wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:20:12.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:44:40.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:30:10.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClinicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Interfaces\\IClinicRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IClinicRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Interfaces\\IClinicRepository.cs",
+              "RelativeToolTip": "Interfaces\\IClinicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:40:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:32:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:26:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DentalClinic.http",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\DentalClinic.http",
+              "RelativeDocumentMoniker": "DentalClinic.http",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\DentalClinic.http",
+              "RelativeToolTip": "DentalClinic.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-19T14:19:30.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Seed.cs",
+              "RelativeDocumentMoniker": "Seed.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Self-learning\\.net\\DentalClinic\\Seed.cs",
+              "RelativeToolTip": "Seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:52:23.293Z"
             }
           ]
         }

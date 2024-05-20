@@ -16,5 +16,16 @@ namespace DentalClinic.Repository
         {
             return _context.Users.ToList();
         }
+        public User GetUserByEmailAndPassword(string email, string password)
+        {
+            return _context.Users.FirstOrDefault(u => u.Email == email && u.Password == password);
+        }
+
+        public User RegisterUser(User user)
+        {
+            _context.Users.Add(user);
+            _context.SaveChanges();
+            return user;
+        }
     }
 }
